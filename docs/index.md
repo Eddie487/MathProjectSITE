@@ -10,11 +10,11 @@
 
 [Netlify]: https://netlify.com
 
-[mkdocs.yml]: https://github.com/Andre601/mkdocs-template/blob/master/mkdocs.yml
-[docs folder]: https://github.com/Andre601/mkdocs-template/blob/master/docs
-[workflow]: https://github.com/Andre601/mkdocs-template/blob/master/.github/workflows/deploy.yml
+[mkdocs.yml]: https://github.com/Eddie487/MathProjectSITE/blob/master/mkdocs.yml
+[docs folder]: https://github.com/Eddie487/MathProjectSITE/blob/master/docs
+[workflow]: https://github.com/Eddie487/MathProjectSITE/blob/master/.github/workflows/deploy.yml
 
-[LICENSE]: https://github.com/Andre601/mkdocs-template/blob/master/LICENSE
+[LICENSE]: https://github.com/Eddie487/MathProjectSITE/blob/master/LICENSE
 
 # MkDocs Material Template
 This is a template repository for anyone that wants to use the MkDocs Material Theme.
